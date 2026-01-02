@@ -1421,3 +1421,5 @@ const FilterButton = ({ type, label, active, onClick }) => (
         <span className="font-bold text-xs">{label}</span>
     </button>
 );
+
+
